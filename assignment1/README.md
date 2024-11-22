@@ -1,17 +1,23 @@
 # MTA_Subway_Graph_Representation
 
-overall description of goal/purpose
+## Purpose
 
-pip install -r requirements.txt in ur terminal
+The MTA transit system is an expansive subway system that connects the boroughs 
+of New York City. The code in `representation.ipynb` creates a graph 
+representation of the subway system and its rider traffic, along with some 
+queries that are useful for analysis and solving problems regarding optimizing 
+riders' experience.
 
-download mta rides data from drive link and put in data folder
+## Data
 
-https://drive.google.com/drive/folders/1fV47SWGv5_AFPR_gRfvK1ra1LfSFCgOw
+### MTA Station Dataset
 
-brief description of both datasets
+This dataset contains information about each individual station complex, including features like a unique ID, borough, coordinates, line information, and station structure type.
 
-station data full description: https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data
+Full description: https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data
 
-rides data full description: https://data.ny.gov/Transportation/MTA-Subway-Origin-Destination-Ridership-Estimate-2/jsu2-fbtj/about_data
+### MTA Ridership Dataset
 
-representation.ipynb has graph representation of mta subway rides and some sample queries
+This dataset contains information about ridership across different days, times, origin, and destination stations.
+
+Full description: https://data.ny.gov/Transportation/MTA-Subway-Origin-Destination-Ridership-Estimate-2/jsu2-fbtj/about_data
