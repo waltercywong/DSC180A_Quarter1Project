@@ -2,11 +2,7 @@
 
 ## Purpose
 
-The MTA transit system is an expansive subway system that connects the boroughs 
-of New York City. The code in `representation.ipynb` creates a graph 
-representation of the subway system and its rider traffic, along with some 
-queries that are useful for analysis and solving problems regarding optimizing 
-riders' experience.
+The MTA transit system is an expansive subway system that connects the boroughs of New York City. The code in `representation.ipynb` creates a graph representation of the subway system and its rider traffic, along with some queries that are useful for analysis and solving problems regarding optimizing riders' experience.
 
 ## Data
 
