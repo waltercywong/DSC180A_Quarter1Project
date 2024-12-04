@@ -3,3 +3,15 @@ pandas>=2.0.0
 matplotlib>=3.7.0
 scipy>=1.10.0
 networkx>=3.0
+json==2.0.9
+gzip==0.5.1
+pickle==4.0.1
+torch==1.10.0
+torch.nn==1.10.0
+torch.nn.functional==1.10.0
+binned_statistic_2d==1.0.0
+collections==2.6.0
+linalg==1.21.0
+torch_geometric.utils==3.0.0
+scipy.sparse.linalg==1.7.3
+pymetis==0.2.3
